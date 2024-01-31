@@ -5,12 +5,12 @@
  # Bibliotecas
  Criado 100% em python, esse projeto foi finalizado com apenas 2 bibliotecas: 
  
- -random
+ -random: 
  para gerar números aleatórios em diferentes formatos.
  
- -turtle
+ -turtle: 
  para criar desenhos simétricos e animações fluidas e para controlar a velocidade de desenho do cursor.
 
-## 🟣 Output
+## 🟠 Output
 
 ![Captura de tela 2024-01-31 113726](https://github.com/evematos/2048/assets/121374911/cbb7ec9e-04e7-4f76-b8fd-52ad80c0599b)
